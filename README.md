@@ -5,3 +5,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Contact Developers
 
 Chamod Devinda - chamoddevinda
+Kavinda Lakmal - wakavinda11@gmail.com
