@@ -1,0 +1,17 @@
+.site-heading{
+    color: blueviolet;
+
+    &:hover{
+        color: red;
+    }
+}
+
+
+.second-heading{
+    color: saddlebrown;
+
+    &:hover{
+        background-color: silver;
+    }
+}
+
